@@ -519,13 +519,15 @@ a .sin-shop-cat h3 {
     display: inline-block;
     padding: 0 10px;
     position: relative;
+    color: #fff;
+    font-size: 9pt;
+    font-weight: 600;
 }
 
 .main-footer-menu ul li span {
     color: #F698A9;
     position: absolute;
     right: 0;
-    bottom: -2px;
     color: #fff;
     font-size: 9pt;
     font-weight: 600;
