@@ -526,14 +526,11 @@ a .sin-shop-cat h3 {
     position: absolute;
     right: 0;
     bottom: -2px;
+    color: #fff;
+    font-size: 9pt;
+    font-weight: 600;
 }
 
 .main-footer-menu ul li:last-child {
     border: 0;
-}
-
-.main-footer-menu ul li a {
-    color: #fff;
-    font-size: 9pt;
-    font-weight: 600;
 }
